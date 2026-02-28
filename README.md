@@ -1,15 +1,10 @@
 
 👋 Hi there, I'm **Adrian**. I'm **Full-stack developer** with 3+ years of experience turning ideas into scalable web applications. I work across React/Next.js and Node.js (Nest.js, Koa.js), focusing on solid state management, clean system design, and building apps that actually perform in production.
 ## 🛠 Tech Stack
-**Frontend**: Next.js, React.js, Typescript, Redux Toolkit, HTML5, CSS3, Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,nestjs,koa,php,mongodb,mysql,redis,tailwind" />
+</p>
 
-**UI & Design**: Responsive design, UI/UX implementation, Material UI, Ant Design, Bootstrap
-
-**Backend**: Node.js, Express.js, Nest.js, Koa.js, PHP
-
-**APIs & Security**: RESTful API design & integration, authentication & security best practices
-
-**Databases & Caching**: MongoDB, MySQL, Redis
 
 ## 🚀 Highlight Project
 **💰 Kakeibo Budgeting App**
