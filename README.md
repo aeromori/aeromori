@@ -2,7 +2,7 @@
 👋 Hi there, I'm **Adrian**. I'm **Full-stack developer** with 3+ years of experience turning ideas into scalable web applications. I work across React/Next.js and Node.js (Nest.js, Koa.js), focusing on solid state management, clean system design, and building apps that actually perform in production.
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,nestjs,koa,php,mongodb,mysql,redis,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,nestjs,docker,php,mongodb,mysql,redis,tailwind" />
 </p>
 
 
