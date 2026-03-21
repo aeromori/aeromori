@@ -11,7 +11,7 @@ Focus: Clean UI, performance optimization, scalable backend architecture
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,nestjs,docker,php,mongodb,mysql,redis,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,nestjs,docker,php,mongodb,mysql,redis,tailwind,bootstrap" />
 </p>
 
 <!--
