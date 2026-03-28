@@ -6,7 +6,7 @@
 
 A modern budgeting application inspired by the Japanese Kakeibo method, designed to help users track expenses, manage monthly budgets, and build mindful spending habits.
 
-Tech Used: Next.js, React, Nest.js, state management, REST APIs
+Tech Used: Next.js, React, Nest.js, Redux/Redux Toolkit, REST APIs
 Focus: Clean UI, performance optimization, scalable backend architecture
 
 ## 🛠 Tech Stack
